@@ -9,7 +9,7 @@ from sklearn.tree import DecisionTreeClassifier #决策树
 from sklearn.neighbors import KNeighborsClassifier #KNN
 
 from sklearn.feature_selection import SelectKBest
-from sklearn.feature_selection import chi2  #卡方检验
+from sklearn.feature_selection import chi2  #卡方
 from scipy.stats import pearsonr#皮尔森系数
 
 from sklearn.cross_validation import ShuffleSplit
